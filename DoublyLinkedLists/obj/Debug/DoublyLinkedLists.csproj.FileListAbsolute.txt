@@ -1,0 +1,7 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\DoublyLinkedLists\DoublyLinkedLists\bin\Debug\DoublyLinkedLists.exe.config
+C:\Users\ltybj\OneDrive\Desktop\.net\DoublyLinkedLists\DoublyLinkedLists\bin\Debug\DoublyLinkedLists.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\DoublyLinkedLists\DoublyLinkedLists\bin\Debug\DoublyLinkedLists.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\DoublyLinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.csproj.AssemblyReference.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\DoublyLinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\DoublyLinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\DoublyLinkedLists\DoublyLinkedLists\obj\Debug\DoublyLinkedLists.pdb
